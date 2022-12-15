@@ -1,6 +1,6 @@
 # practica-2
 
-- [preview page]()
+- [preview page](https://practica-vue-2.netlify.app/)
 
 Esta es una practica de Vue 3, trabajando con componentes y el composition API
 
